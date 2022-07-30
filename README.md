@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uyen-Le-Ngoc
 - 👀 I’m interested in Physics and Music
 - 🌱 I’m currently learning PhD degree.
-- 💞️ I’m looking to collaborate on research relating Bose-Einstein Condensation.
+- 💞️ I’m looking to collaborate on research relating Bose-Einstein Condensation & Classical Fluid Dynamics
 - 📫 How to reach me: Contact me by email: leuyen0623@gmail.com
 
 <!---
